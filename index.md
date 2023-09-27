@@ -21,12 +21,10 @@ I am a senior student majoring in **Computer Science** at University of Michigan
 
 ---
 
-## Research Interests
+## Projects
 
 
 <br>
 
----
 
-## News and Updates
 
