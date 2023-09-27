@@ -14,8 +14,6 @@ I am a senior student majoring in **Computer Science** at University of Michigan
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
 - **Sep 2019 - Jan 2022:** Sichuan University
 - **Sep 2022 - Now:** University of Michigan
 
