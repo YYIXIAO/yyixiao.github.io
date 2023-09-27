@@ -23,6 +23,7 @@ I am a senior student majoring in **Computer Science** at University of Michigan
 
 ## Projects
 
+- **Sep 2023：**[Metroid & gravity reverse](https://yyixiao.itch.io/metroid-gravity-reverse). Worked with Zachary A Jarski in course EECS 494. I am mainly responsible for player operation, Samus related functions as well as map function implementation (such as Samus movement and weapons, doors, cameras, etc.)
 
 <br>
 
