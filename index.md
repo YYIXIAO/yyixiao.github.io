@@ -6,7 +6,7 @@ layout: page
 
 <img src="MIUMIU.jpg" class="floatpic" width="360" height="480">
 
-Here is **Yixiao Yuan (Lance, 袁奕潇)**.
+Here is **Yixiao Yuan (Chester, 袁奕潇)**.
 
 I am a senior student majoring in **Computer Science** at University of Michigan(Ann Arbor, Michigan, United States).
 
