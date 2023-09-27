@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="MIUMIU.jpg" class="floatpic" width="360" height="480">
+<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic" width="360" height="480">
 
 Here is **Yixiao Yuan (Chester, 袁奕潇)**.
 
