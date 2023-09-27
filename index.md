@@ -23,7 +23,9 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 
 ## Projects
 
-- **Sep 2023：**[Metroid & gravity reverse](https://drive.google.com/file/d/1M_FjHWAHDC-IM2SBmWliJPUZBt_fElNM/view?usp=sharing). 
+- **Sep 2023：**[Metroid & gravity reverse]. 
+- [Windows Version](https://drive.google.com/file/d/1M_FjHWAHDC-IM2SBmWliJPUZBt_fElNM/view?usp=sharing)
+- [Mac Version](https://drive.google.com/file/d/1UOoOnVwDtCl5RHGxr_SBhAnq4rX6plgA/view?usp=sharing)
 - Using tools: C#, Unity
 - Worked with Zachary A Jarski in course EECS 494. 
 - I am mainly responsible for player operation, Samus related functions as well as map function implementation (such as Samus movement and weapons, doors, cameras, etc.) 
