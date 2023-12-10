@@ -47,4 +47,6 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 - Time used: 5 weeks
 - Worked in course EECS 494. 
 - Group memebers: Will Gushee, Ben Fang, Max Tennant, Aaron Byrd, Grant Wang(Music)
-- Main responsibility: ...
+- Main responsibility: Mainly responsible for level process design, level logic implementation(decryption room), object interaction logic implementation (such as photosensitive material text, keypad, and so on), dialogue logic and effect implementation, ending cutscenes. And also work with my teammates fixing various issues.
+
+<br>
