@@ -43,7 +43,7 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 
 - **Sep 2023：**[WISP]. 
 - [Game Website](https://ajbyrd.itch.io/wisp)
-- Using tools: C#, Unity2D
+- Using tools: C#, Unity3D
 - Time used: 5 weeks
 - Worked in course EECS 494. 
 - Group memebers: Will Gushee, Ben Fang, Max Tennant, Aaron Byrd, Grant Wang(Music)
