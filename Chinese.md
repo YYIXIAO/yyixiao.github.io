@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: /Chinese/index.html
+title: 关于我
 ---
 
 # 关于我
