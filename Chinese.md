@@ -42,7 +42,9 @@ title: 关于我
 
 <br>
 
+<div>
 <img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic" width="50" height="50">
+</div>
 
 - **2023 9月：**[WISP]. 
 - [游戏网页](https://ajbyrd.itch.io/wisp)
