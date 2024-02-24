@@ -21,7 +21,7 @@ title: 关于我
 ### 项目经历
 
 <div>
-<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic" width="50" height="50">
+<img src="https://yyixiao.github.io/Metroid.jpg" class="floatpic" width="50" height="50">
 </div>
 
 - **2023 9月：**[Metroid & gravity reverse]. 
