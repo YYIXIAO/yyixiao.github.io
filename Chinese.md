@@ -29,7 +29,7 @@ title: 关于我
 - [Mac版本下载(Google drive)](https://drive.google.com/file/d/1UOoOnVwDtCl5RHGxr_SBhAnq4rX6plgA/view?usp=sharing)
 - 使用技能: C#, Unity3D
 - 开发时长: 3 周
-- 和搭档Zachary A Jarski 在课程 EECS 494中完成开发. 
+- 和搭档Zachary A Jarski 在课程 EECS 494中完成开发。
 - 主要负责完成玩家操作逻辑实现（移动，武器等），地图逻辑实现（场景变化，视角移动等）。 
 
 <br>
@@ -42,7 +42,8 @@ title: 关于我
 - [在线游玩](https://yyixiao.itch.io/round)
 - 使用技能: C#, Unity2D
 - 开发时长: 2 周
-- 在课程 EECS 494 中独立完成开发. 
+- 在课程 EECS 494 中独立完成开发。
+- 主要使用移动，跳跃，冲刺，改变颜色以及利用地图机制通关游戏。
 
 <br>
 
@@ -54,7 +55,7 @@ title: 关于我
 - [游戏网页](https://ajbyrd.itch.io/wisp)
 - 使用技能: C#, Unity3D
 - 开发时长: 5 周
-- 在课程 EECS 494 中组队完成开发. 
+- 在课程 EECS 494 中组队完成开发。
 - 团队成员: Will Gushee, Ben Fang, Max Tennant, Aaron Byrd, Grant Wang(音乐)
 - 主要负责关卡设计和关卡逻辑实现、物体交互逻辑实现（例如密码锁键盘、墙上的光敏字体等）、对话逻辑和UI实现、通关动画等。并与其他成员一起修复开发过程中遇到的各种问题。
 
