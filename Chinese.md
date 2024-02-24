@@ -4,7 +4,7 @@ permalink: /Chinese/index.html
 title: 关于我
 ---
 
-<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic" width="360" height="480">
+<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic round-img" width="360" height="360">
 
 我是 **袁奕潇**.
 
