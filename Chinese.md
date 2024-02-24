@@ -4,15 +4,13 @@ permalink: /Chinese/index.html
 title: 关于我
 ---
 
-<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic round-img" width="360" height="360">
-
 我是 **袁奕潇**.
 
 就读于**密歇根大学安娜堡分校**的**EECS**专业。希望未来能进入到游戏行业。
 
 <br>
 
-# 教育经历
+### 教育经历
 
 - **Sep 2022 - Now:** 密歇根大学安娜堡分校 EECS
 
@@ -20,7 +18,9 @@ title: 关于我
 
 ---
 
-# 项目经历
+### 项目经历
+
+<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic round-img" width="240" height="240">
 
 - **2023 9月：**[Metroid & gravity reverse]. 
 - [Windows版本下载(Google drive)](https://drive.google.com/file/d/1M_FjHWAHDC-IM2SBmWliJPUZBt_fElNM/view?usp=sharing)

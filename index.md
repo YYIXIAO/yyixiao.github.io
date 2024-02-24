@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 Here is **Yixiao Yuan (Chester, 袁奕潇)**.
 
@@ -10,7 +10,7 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 
 <br>
 
-## Academic Background
+### Academic Background
 
 - **Sep 2019 - Jan 2022:** Sichuan University
 - **Sep 2022 - Now:** University of Michigan
@@ -19,7 +19,7 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 
 ---
 
-## Projects
+### Projects
 
 - **Sep 2023：**[Metroid & gravity reverse]. 
 - [Windows Version(Google drive)](https://drive.google.com/file/d/1M_FjHWAHDC-IM2SBmWliJPUZBt_fElNM/view?usp=sharing)
