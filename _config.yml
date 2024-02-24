@@ -26,9 +26,9 @@ owner:
 # For external links add external: true
 links:
   - title: About Me
-    url: yyixiao.github.io
+    url: https://yyixiao.github.io
   - title: 关于我
-    url: yyixiao.github.io/Chinese
+    url: https://yyixiao.github.io/Chinese/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
