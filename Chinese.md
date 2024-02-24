@@ -4,8 +4,6 @@ permalink: /Chinese/index.html
 title: 关于我
 ---
 
-# 关于我
-
 <img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic" width="360" height="480">
 
 我是 **袁奕潇**.
@@ -16,7 +14,6 @@ title: 关于我
 
 ## 教育经历
 
-- **2019 9月 - 2022 1月:** 四川大学 财务管理、软件工程双学位
 - **Sep 2022 - Now:** 密歇根大学安娜堡分校 EECS
 
 <br>
