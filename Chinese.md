@@ -20,7 +20,7 @@ title: 关于我
 
 ### 项目经历
 
-<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic round-img" width="240" height="240">
+<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic round-img" width="200" height="200">
 
 - **2023 9月：**[Metroid & gravity reverse]. 
 - [Windows版本下载(Google drive)](https://drive.google.com/file/d/1M_FjHWAHDC-IM2SBmWliJPUZBt_fElNM/view?usp=sharing)
@@ -32,6 +32,8 @@ title: 关于我
 
 <br>
 
+<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic round-img" width="200" height="200">
+
 - **2023 9月：**[Round!]. 
 - [在线游玩](https://yyixiao.itch.io/round)
 - 使用技能: C#, Unity2D
@@ -39,6 +41,8 @@ title: 关于我
 - 在课程 EECS 494 中独立完成开发. 
 
 <br>
+
+<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic round-img" width="200" height="200">
 
 - **2023 9月：**[WISP]. 
 - [游戏网页](https://ajbyrd.itch.io/wisp)
@@ -49,10 +53,14 @@ title: 关于我
 - 主要负责关卡设计和关卡逻辑实现、物体交互逻辑实现（例如密码锁键盘、墙上的光敏字体等）、对话逻辑和UI实现、通关动画等。并与其他成员一起修复开发过程中遇到的各种问题。
 
 <br>
+
+<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic round-img" width="200" height="200">
+
 - **2024 1月：**[游戏引擎]. 
 - 使用技能: C++, Lua
 - 开发时长: 仍在开发中
-- 在课程 EECS 498 中独立完成开发. 
+- 在课程 EECS 498-007 中独立完成开发. 
+- 支持linux，osx, Windows三个平台。
 - 实现了基于rapidjson的资源文件读取。
 - 实现了基于SDL2的2D渲染和音频播放。
 - 实现了支持上万个角色的Box_collider和Box_trigger更新逻辑。
