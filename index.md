@@ -4,8 +4,6 @@ layout: page
 
 # About Me
 
-<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic" width="360" height="480">
-
 Here is **Yixiao Yuan (Chester, 袁奕潇)**.
 
 I am a senior student majoring in **Computer Science** at **University of Michigan**(Ann Arbor, Michigan, United States).

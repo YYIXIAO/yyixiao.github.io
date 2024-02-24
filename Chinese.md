@@ -12,7 +12,7 @@ title: 关于我
 
 <br>
 
-## 教育经历
+# 教育经历
 
 - **Sep 2022 - Now:** 密歇根大学安娜堡分校 EECS
 
@@ -20,7 +20,7 @@ title: 关于我
 
 ---
 
-## 项目经历
+# 项目经历
 
 - **2023 9月：**[Metroid & gravity reverse]. 
 - [Windows版本下载(Google drive)](https://drive.google.com/file/d/1M_FjHWAHDC-IM2SBmWliJPUZBt_fElNM/view?usp=sharing)
