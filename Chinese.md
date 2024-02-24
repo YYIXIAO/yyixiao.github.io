@@ -35,7 +35,7 @@ title: 关于我
 <br>
 
 <div>
-<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic" width="50" height="50">
+<img src="https://yyixiao.github.io/round.jpg" class="floatpic" width="50" height="50">
 </div>
 
 - **2023 9月：**[Round!]. 
@@ -48,7 +48,7 @@ title: 关于我
 <br>
 
 <div>
-<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic" width="50" height="50">
+<img src="https://yyixiao.github.io/Wisp.jpg" class="floatpic" width="50" height="50">
 </div>
 
 - **2023 9月：**[WISP]. 
@@ -62,7 +62,7 @@ title: 关于我
 <br>
 
 <div>
-<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic" width="50" height="50">
+<img src="https://yyixiao.github.io/GameEngine.jpg" class="floatpic" width="50" height="50">
 </div>
 
 - **2024 1月：**[游戏引擎]. 

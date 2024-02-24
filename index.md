@@ -21,7 +21,9 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 
 ### Projects
 
-<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic round-img" width="200" height="200">
+<div>
+<img src="https://yyixiao.github.io/Metroid.jpg" class="floatpic" width="50" height="50">
+</div>
 
 - **Sep 2023：**[Metroid & gravity reverse]. 
 - [Windows Version(Google drive)](https://drive.google.com/file/d/1M_FjHWAHDC-IM2SBmWliJPUZBt_fElNM/view?usp=sharing)
@@ -33,7 +35,9 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 
 <br>
 
-<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic round-img" width="200" height="200">
+<div>
+<img src="https://yyixiao.github.io/round.jpg" class="floatpic" width="50" height="50">
+</div>
 
 - **Sep 2023：**[Round!]. 
 - [Play Online](https://yyixiao.itch.io/round)
@@ -43,7 +47,9 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 
 <br>
 
-<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic round-img" width="200" height="200">
+<div>
+<img src="https://yyixiao.github.io/Wisp.jpg" class="floatpic" width="50" height="50">
+</div>
 
 - **Sep 2023：**[WISP]. 
 - [Game Website](https://ajbyrd.itch.io/wisp)
@@ -55,7 +61,9 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 
 <br>
 
-<img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic round-img" width="200" height="200">
+<div>
+<img src="https://yyixiao.github.io/GameEngine.jpg" class="floatpic" width="50" height="50">
+</div>
 
 - **Jan 2024：**[Game Engine]. 
 - Using tools: C++, Lua
