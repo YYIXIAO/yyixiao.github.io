@@ -20,7 +20,9 @@ title: 关于我
 
 ### 项目经历
 
+<div>
 <img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic" width="50" height="50">
+</div>
 
 - **2023 9月：**[Metroid & gravity reverse]. 
 - [Windows版本下载(Google drive)](https://drive.google.com/file/d/1M_FjHWAHDC-IM2SBmWliJPUZBt_fElNM/view?usp=sharing)
@@ -32,7 +34,9 @@ title: 关于我
 
 <br>
 
+<div>
 <img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic" width="50" height="50">
+</div>
 
 - **2023 9月：**[Round!]. 
 - [在线游玩](https://yyixiao.itch.io/round)
@@ -56,7 +60,9 @@ title: 关于我
 
 <br>
 
+<div>
 <img src="https://yyixiao.github.io/MIUMIU.jpg" class="floatpic" width="50" height="50">
+</div>
 
 - **2024 1月：**[游戏引擎]. 
 - 使用技能: C++, Lua
