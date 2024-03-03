@@ -56,7 +56,7 @@ title: 关于我
 - 使用技能: C#, Unity3D
 - 开发时长: 5 周
 - 在课程 EECS 494 中组队完成开发。
-- 团队成员: Will Gushee, Ben Fang, Max Tennant, Aaron Byrd, Grant Wang(音乐)
+- 团队成员: Yixiao Yuan, Will Gushee, Ben Fang, Max Tennant, Aaron Byrd, Grant Wang(音乐)
 - 主要负责关卡设计和关卡逻辑实现、物体交互逻辑实现（例如密码锁键盘、墙上的光敏字体等）、对话逻辑和UI实现、通关动画等。并与其他成员一起修复开发过程中遇到的各种问题。
 
 <br>
