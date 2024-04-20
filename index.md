@@ -56,7 +56,7 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 <br>
 
 <div>
-<img src="https://yyixiao.github.io/round.jpg" class="floatpic" width="50" height="50">
+<img src="https://yyixiao.github.io/round.jpg" class="floatpic" width="36" height="36">
 </div>
 
 - **Sep 2023：**[Round!]. 
@@ -68,7 +68,7 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 <br>
 
 <div>
-<img src="https://yyixiao.github.io/Metroid.jpg" class="floatpic" width="50" height="50">
+<img src="https://yyixiao.github.io/Metroid.jpg" class="floatpic" width="36" height="36">
 </div>
 
 - **Sep 2023：**[Metroid & gravity reverse]. 

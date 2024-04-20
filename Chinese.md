@@ -55,7 +55,7 @@ title: 关于我
 <br>
 
 <div>
-<img src="https://yyixiao.github.io/Metroid.jpg" class="floatpic" width="50" height="50">
+<img src="https://yyixiao.github.io/Metroid.jpg" class="floatpic" width="36" height="36">
 </div>
 
 - **2023 9月：**[Metroid & gravity reverse]. 
@@ -69,7 +69,7 @@ title: 关于我
 <br>
 
 <div>
-<img src="https://yyixiao.github.io/round.jpg" class="floatpic" width="50" height="50">
+<img src="https://yyixiao.github.io/round.jpg" class="floatpic" width="36" height="36">
 </div>
 
 - **2023 9月：**[Round!]. 
