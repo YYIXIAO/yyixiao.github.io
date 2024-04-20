@@ -78,6 +78,6 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 - Has built-in sprite animation and spineAnimation with support of spine-sdl-runtime. Support sprite animation with sprite sheet and spine animation.
 - still developin
 - logo is generated with gpt.
-- custom feature(animation) video(https://youtu.be/7PY8Ap4_6ps)
-- github(https://github.com/YuanYixiao0014/YY2D)
+- [custom feature(animation) video](https://youtu.be/7PY8Ap4_6ps)
+- [Github](https://github.com/YuanYixiao0014/YY2D)
 
