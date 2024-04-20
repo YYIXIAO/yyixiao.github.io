@@ -21,6 +21,40 @@ title: 关于我
 ### 项目经历
 
 <div>
+<img src="https://yyixiao.github.io/GameEngine.png" class="floatpic" width="50" height="50">
+</div>
+
+- **2024 1月：**[游戏引擎]. 
+- 使用技能: C++, Lua, GLM, LuaBridge, SDL, Box2D, Spine-SDL runtime
+- 开发时长: 仍在开发中
+- 在课程 EECS 498-007 中独立完成开发. 
+- C++游戏引擎
+- 支持linux，osx, Windows三个平台。
+- 实现了基于rapidjson的资源文件读取。
+- 实现了基于SDL2的2D渲染和音频播放。
+- 实现了基于Box2d的物理系统。
+- 实现了嵌入Lua作为脚本语言，满足游戏逻辑自定义需求。
+- 实现了简易的精灵动画和Spine骨骼动画系统，支持使用spritesheet,spine骨骼动画等美术资源进行游戏制作。
+- Logo由GPT生成
+- 其他功能仍在开发中
+- [Github](https://github.com/YuanYixiao0014/Manifold)
+
+
+<div>
+<img src="https://yyixiao.github.io/Wisp.jpg" class="floatpic" width="50" height="50">
+</div>
+
+- **2023 9月：**[WISP]. 
+- [游戏网页](https://ajbyrd.itch.io/wisp)
+- 使用技能: C#, Unity3D
+- 开发时长: 5 周
+- 在课程 EECS 494 中组队完成开发。
+- 团队成员: Yixiao Yuan, Will Gushee, Ben Fang, Max Tennant, Aaron Byrd, Grant Wang(音乐)
+- 主要负责关卡设计和关卡逻辑实现、物体交互逻辑实现（例如密码锁键盘、墙上的光敏字体等）、对话逻辑和UI实现、通关动画等。并与其他成员一起修复开发过程中遇到的各种问题。
+
+<br>
+
+<div>
 <img src="https://yyixiao.github.io/Metroid.jpg" class="floatpic" width="50" height="50">
 </div>
 
@@ -46,36 +80,3 @@ title: 关于我
 - 主要使用移动，跳跃，冲刺，改变颜色以及利用地图机制通关游戏。
 
 <br>
-
-<div>
-<img src="https://yyixiao.github.io/Wisp.jpg" class="floatpic" width="50" height="50">
-</div>
-
-- **2023 9月：**[WISP]. 
-- [游戏网页](https://ajbyrd.itch.io/wisp)
-- 使用技能: C#, Unity3D
-- 开发时长: 5 周
-- 在课程 EECS 494 中组队完成开发。
-- 团队成员: Yixiao Yuan, Will Gushee, Ben Fang, Max Tennant, Aaron Byrd, Grant Wang(音乐)
-- 主要负责关卡设计和关卡逻辑实现、物体交互逻辑实现（例如密码锁键盘、墙上的光敏字体等）、对话逻辑和UI实现、通关动画等。并与其他成员一起修复开发过程中遇到的各种问题。
-
-<br>
-
-<div>
-<img src="https://yyixiao.github.io/GameEngine.png" class="floatpic" width="50" height="50">
-</div>
-
-- **2024 1月：**[游戏引擎]. 
-- 使用技能: C++, Lua, GLM, LuaBridge, SDL, Box2D, Spine-SDL runtime
-- 开发时长: 仍在开发中
-- 在课程 EECS 498-007 中独立完成开发. 
-- C++游戏引擎
-- 支持linux，osx, Windows三个平台。
-- 实现了基于rapidjson的资源文件读取。
-- 实现了基于SDL2的2D渲染和音频播放。
-- 实现了基于Box2d的物理系统。
-- 实现了嵌入Lua作为脚本语言，满足游戏逻辑自定义需求。
-- 实现了简易的精灵动画和Spine骨骼动画系统，支持使用spritesheet,spine骨骼动画等美术资源进行游戏制作。
-- Logo由GPT生成
-- 其他功能仍在开发中
-- [Github](https://github.com/YuanYixiao0014/Manifold)
