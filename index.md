@@ -37,7 +37,7 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 - Support Lua scripts.
 - Has built-in sprite animation and spineAnimation with support of spine-sdl-runtime. Support sprite animation with sprite sheet and spine animation.
 - still developin
-- logo is generated with gpt.
+- Logo is generated with gpt.
 - [custom feature(animation) video](https://youtu.be/7PY8Ap4_6ps)
 - [Github](https://github.com/YuanYixiao0014/Manifold)
 
@@ -56,13 +56,8 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 <br>
 
 
-
-
-
-
-
 <div>
-<img src="https://yyixiao.github.io/round.jpg" class="floatpic" width="36" height="36">
+<img src="https://yyixiao.github.io/Round.png" class="floatpic" width="36" height="36">
 </div>
 
 - **Sep 2023：**[Round!]. 
@@ -70,12 +65,12 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 - Using tools: C#, Unity2D
 - Time used: 2 weeks
 - Worked alone in course EECS 494. 
+- A 2d platform jumping game. The main character can switch between different colors and interate with the different items in the map.
+- The logo is AI generated.
 
 <br>
-
-
-
-
+<br>
+<br>
 
 <div>
 <img src="https://yyixiao.github.io/Metroid.jpg" class="floatpic" width="36" height="36">

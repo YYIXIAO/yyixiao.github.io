@@ -67,9 +67,11 @@ title: 关于我
 - 主要负责完成玩家操作逻辑实现（移动，武器等），地图逻辑实现（场景变化，视角移动等）。 
 
 <br>
+<br>
+<br>
 
 <div>
-<img src="https://yyixiao.github.io/round.jpg" class="floatpic" width="36" height="36">
+<img src="https://yyixiao.github.io/Round.png" class="floatpic" width="36" height="36">
 </div>
 
 - **2023 9月：**[Round!]. 
