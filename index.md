@@ -55,6 +55,12 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 
 <br>
 
+
+
+
+
+
+
 <div>
 <img src="https://yyixiao.github.io/round.jpg" class="floatpic" width="36" height="36">
 </div>
@@ -66,6 +72,10 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 - Worked alone in course EECS 494. 
 
 <br>
+
+
+
+
 
 <div>
 <img src="https://yyixiao.github.io/Metroid.jpg" class="floatpic" width="36" height="36">
