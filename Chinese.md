@@ -39,6 +39,7 @@ title: 关于我
 - 其他功能仍在开发中
 - [Github](https://github.com/YuanYixiao0014/Manifold)
 
+<br>
 
 <div>
 <img src="https://yyixiao.github.io/Wisp.jpg" class="floatpic" width="50" height="50">

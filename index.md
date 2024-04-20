@@ -41,6 +41,8 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 - [custom feature(animation) video](https://youtu.be/7PY8Ap4_6ps)
 - [Github](https://github.com/YuanYixiao0014/Manifold)
 
+<br>
+
 <div>
 <img src="https://yyixiao.github.io/Wisp.jpg" class="floatpic" width="50" height="50">
 </div>
