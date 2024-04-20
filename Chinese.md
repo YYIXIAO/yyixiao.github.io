@@ -69,9 +69,13 @@ title: 关于我
 - 使用技能: C++, Lua
 - 开发时长: 仍在开发中
 - 在课程 EECS 498-007 中独立完成开发. 
+- C++游戏引擎
 - 支持linux，osx, Windows三个平台。
 - 实现了基于rapidjson的资源文件读取。
 - 实现了基于SDL2的2D渲染和音频播放。
-- 实现了支持上万个角色的Box_collider和Box_trigger更新逻辑。
+- 实现了基于Box2d的物理系统。
 - 实现了嵌入Lua作为脚本语言，满足游戏逻辑自定义需求。
+- 实现了简易的精灵动画和Spine骨骼动画系统，支持使用spritesheet,spine骨骼动画等美术资源进行游戏制作。
+- Logo由GPT生成
 - 其他功能仍在开发中
+- Github(https://github.com/YuanYixiao0014/YY2D)

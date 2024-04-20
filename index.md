@@ -69,10 +69,15 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 - Using tools: C++, Lua
 - Time used: still developing
 - Worked in course EECS 498-007. 
-- support linux, osx and Windows.
-- support reading resource files using rapidjson.
-- support 2d rendering and mix chunk playing using SDL2.
-- support update logic of Box_colliders and Box_triggers, able to update 10000+ actors at same time.
-- support dynamically loading lua scripts at runtime.
-- still developing
+- C++ game engine.
+- Support linux, osx and Windows.(custom feature only tested on windows for now)
+- Reading resource files using rapidjson.
+- Support 2d rendering and mix chunk playing using SDL2.
+- Support physics system based on Box2d.
+- Support Lua scripts.
+- Has built-in sprite animation and spineAnimation with support of spine-sdl-runtime. Support sprite animation with sprite sheet and spine animation.
+- still developin
+- logo is generated with gpt.
+- custom feature(animation) video(https://youtu.be/7PY8Ap4_6ps)
+- github(https://github.com/YuanYixiao0014/YY2D)
 
