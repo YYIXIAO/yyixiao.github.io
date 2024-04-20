@@ -62,11 +62,11 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 <br>
 
 <div>
-<img src="https://yyixiao.github.io/GameEngine.jpg" class="floatpic" width="50" height="50">
+<img src="https://yyixiao.github.io/GameEngine.png" class="floatpic" width="50" height="50">
 </div>
 
 - **Jan 2024：**[Game Engine]. 
-- Using tools: C++, Lua
+- Using tools:  C++, Lua, GLM, LuaBridge, SDL, Box2D, Spine-SDL runtime
 - Time used: still developing
 - Worked in course EECS 498-007. 
 - C++ game engine.
@@ -79,5 +79,5 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 - still developin
 - logo is generated with gpt.
 - [custom feature(animation) video](https://youtu.be/7PY8Ap4_6ps)
-- [Github](https://github.com/YuanYixiao0014/YY2D)
+- [Github](https://github.com/YuanYixiao0014/Manifold)
 

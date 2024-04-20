@@ -62,11 +62,11 @@ title: 关于我
 <br>
 
 <div>
-<img src="https://yyixiao.github.io/GameEngine.jpg" class="floatpic" width="50" height="50">
+<img src="https://yyixiao.github.io/GameEngine.png" class="floatpic" width="50" height="50">
 </div>
 
 - **2024 1月：**[游戏引擎]. 
-- 使用技能: C++, Lua
+- 使用技能: C++, Lua, GLM, LuaBridge, SDL, Box2D, Spine-SDL runtime
 - 开发时长: 仍在开发中
 - 在课程 EECS 498-007 中独立完成开发. 
 - C++游戏引擎
@@ -78,4 +78,4 @@ title: 关于我
 - 实现了简易的精灵动画和Spine骨骼动画系统，支持使用spritesheet,spine骨骼动画等美术资源进行游戏制作。
 - Logo由GPT生成
 - 其他功能仍在开发中
-- [Github](https://github.com/YuanYixiao0014/YY2D)
+- [Github](https://github.com/YuanYixiao0014/Manifold)
