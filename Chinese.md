@@ -29,7 +29,7 @@ title: 关于我
 - [Github](https://github.com/YuanYixiao0014/Manifold)
 - [示例游戏](https://yuanyixiao0014.itch.io/archer)
 - 使用技能: C++17, Lua, GLM, LuaBridge, SDL, Box2D, Spine-SDL runtime
-- 使用了vector, map, unordered_map, shared_ptr等相关知识
+- 使用了vector, map, unordered_map, shared_ptr, deque等相关知识
 - 开发时长: 仍在开发中
 - 独立完成开发. 
 - 支持linux，osx, Windows三个平台。（动画系统暂时只支持Windows）
