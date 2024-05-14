@@ -25,19 +25,21 @@ title: 关于我
 </div>
 
 - **2024 1月：**[游戏引擎]. 
-- 使用技能: C++, Lua, GLM, LuaBridge, SDL, Box2D, Spine-SDL runtime
+- [基础API](https://eecs498-game-engine.github.io/)
+- [Github](https://github.com/YuanYixiao0014/Manifold)
+- [示例游戏](https://yuanyixiao0014.itch.io/archer)
+- 使用技能: C++17, Lua, GLM, LuaBridge, SDL, Box2D, Spine-SDL runtime
+- 使用了vector, map, unordered_map, shared_ptr等相关知识
 - 开发时长: 仍在开发中
-- 在课程 EECS 498-007 中独立完成开发. 
-- C++游戏引擎
-- 支持linux，osx, Windows三个平台。
-- 实现了基于rapidjson的资源文件读取。
-- 实现了基于SDL2的2D渲染和音频播放。
-- 实现了基于Box2d的物理系统。
-- 实现了嵌入Lua作为脚本语言，满足游戏逻辑自定义需求。
+- 独立完成开发. 
+- 支持linux，osx, Windows三个平台。（动画系统暂时只支持Windows）
+- 基于rapidjson的资源文件读取。
+- 基于SDL2的2D渲染和音频播放。
+- 基于Box2d的物理系统。
+- 嵌入Lua作为脚本语言，满足游戏逻辑自定义需求。
 - 实现了简易的精灵动画和Spine骨骼动画系统，支持使用spritesheet,spine骨骼动画等美术资源进行游戏制作。
 - Logo由GPT生成
 - 其他功能仍在开发中
-- [Github](https://github.com/YuanYixiao0014/Manifold)
 
 <br>
 
