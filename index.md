@@ -26,6 +26,9 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 </div>
 
 - **Jan 2024：**[Game Engine]. 
+- [basic API](https://eecs498-game-engine.github.io/)
+- [Github](https://github.com/YuanYixiao0014/Manifold)
+- [sample game](https://yuanyixiao0014.itch.io/archer)
 - Using tools:  C++, Lua, GLM, LuaBridge, SDL, Box2D, Spine-SDL runtime
 - Time used: still developing
 - Worked in course EECS 498-007. 
@@ -38,8 +41,6 @@ I am a senior student majoring in **Computer Science** at **University of Michig
 - Has built-in sprite animation and spineAnimation with support of spine-sdl-runtime. Support sprite animation with sprite sheet and spine animation.
 - still developin
 - Logo is generated with gpt.
-- [custom feature(animation) video](https://youtu.be/7PY8Ap4_6ps)
-- [Github](https://github.com/YuanYixiao0014/Manifold)
 
 <br>
 
