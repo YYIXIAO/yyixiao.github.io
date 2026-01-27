@@ -883,3 +883,12 @@ footer {
 @media (max-width: 450px) {
   .intro-inner {top: 50%;}
 }
+
+.tech-link {
+	color: #00274C;
+	font-weight: 500;
+}
+
+.tech-link:hover {
+	color: #00274C;
+}
