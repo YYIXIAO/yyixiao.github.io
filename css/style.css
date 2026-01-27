@@ -884,11 +884,14 @@ footer {
   .intro-inner {top: 50%;}
 }
 
-.tech-link {
+a.tech-link,
+a.tech-link:visited {
 	color: #00274C;
 	font-weight: 500;
 }
 
-.tech-link:hover {
+a.tech-link:hover {
 	color: #00274C;
+	text-decoration: underline;
 }
+
